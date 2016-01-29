@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Hansen - Photography]]></title>
+        <description><![CDATA[Michael Hansen - Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 18:17:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dawn in the Rockies]]></title>
+            <description><![CDATA[<article><h1>Dawn in the Rockies</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5030a65fefd21ff346edc5b38e2cc3733c419e0a.jpg"></article>]]></description>
+            <link>undefineddawn-in-the-rockies/index.html</link>
+            <guid isPermaLink="false">691d93f6-3991-4ae5-8562-c510c6a5ef98</guid>
+            <pubDate>Fri, 29 Jan 2016 18:17:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
