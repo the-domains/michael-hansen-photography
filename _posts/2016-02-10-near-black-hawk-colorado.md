@@ -1,21 +1,27 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-02-13T05:14:52.512Z'
+dateModified: '2016-02-13T05:14:42.549Z'
 author: []
-datePublished: '2016-02-10T22:16:19.716Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Near Black Hawk, Colorado'
-dateModified: '2016-02-09T22:50:15.995Z'
 sourcePath: _posts/2016-02-10-near-black-hawk-colorado.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 url: near-black-hawk-colorado/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Near Black Hawk, Colorado
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2bb174f-5728-40ce-8634-c03c8bd9afea.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8beba8cebd165f3c590478c147ff180521323b8a.png)
