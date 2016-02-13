@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Visitors must be 18 to enter.  NUDITY and ADULT themes
-datePublished: '2016-02-13T05:21:30.524Z'
-dateModified: '2016-02-13T05:21:20.325Z'
+datePublished: '2016-02-13T12:50:41.984Z'
+dateModified: '2016-02-13T12:50:38.474Z'
 title: Dawn in the Rockies
 author: []
 sourcePath: _posts/2016-01-29-dawn-in-the-rockies.md
@@ -25,4 +25,4 @@ _type: Article
 Dawn in the Rockies
 
 Visitors must be 18 to enter.  NUDITY and ADULT themes
-![Visitors must be 18 to enter.  NUDITY and ADULT themes](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e2f320e2745817fed8b937463ec5df40d4e58e3.jpg)
+![Visitors must be 18 to enter.  NUDITY and ADULT themes](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f3afdd5b67b479b12d13daa624005b6c1834e4.jpg)
