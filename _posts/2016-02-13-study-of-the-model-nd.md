@@ -6,21 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T05:47:24.893Z'
-dateModified: '2016-02-13T05:47:05.828Z'
+datePublished: '2016-02-13T12:46:35.584Z'
+dateModified: '2016-02-13T12:46:29.006Z'
 title: "Study of the Model 'ND'"
 author: []
+sourcePath: _posts/2016-02-13-study-of-the-model-nd.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-13-study-of-the-model-nd.md
-published: true
 url: study-of-the-model-nd/index.html
 _type: WebPage
 
 ---
 Study of the model 'ND'
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3b4fd12-c7b9-4739-a5d8-873fc583c300.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fc08c1bfa4a52671f6e3b945467a0c7d559863c.jpg)
