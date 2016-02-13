@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T12:46:35.584Z'
-dateModified: '2016-02-13T12:46:29.006Z'
+datePublished: '2016-02-13T12:49:04.339Z'
+dateModified: '2016-02-13T12:49:00.538Z'
 title: "Study of the Model 'ND'"
 author: []
 sourcePath: _posts/2016-02-13-study-of-the-model-nd.md
