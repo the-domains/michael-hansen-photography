@@ -1,25 +1,26 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "She's happy.  (From a series in the studio)."
-datePublished: '2016-01-31T04:03:33.164Z'
-dateModified: '2016-01-31T04:03:09.068Z'
+datePublished: '2016-02-13T05:17:28.327Z'
+dateModified: '2016-02-13T05:17:20.806Z'
 title: 'In the Studio #7'
 author: []
+sourcePath: _posts/2016-01-31-in-the-studio-7.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-in-the-studio-7.md
-published: true
 url: in-the-studio-7/index.html
-_type: Blurb
+_type: WebPage
 
 ---
-![She's happy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5aed0b30-bbd2-49fd-bba3-2bb524ad2065.jpg)
+In the Studio with 'M'
+![She's Happy](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1faf6ed40f70f5bd3100bf39fa0021b11b9e1792.jpg)
